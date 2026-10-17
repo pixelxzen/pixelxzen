@@ -17,6 +17,7 @@
 
 - **[Phantom-Motion](https://github.com/pixelxzen/phantom-motion)** · 动态视觉叙事 —— 给一个念头，还你一帧帧会呼吸的画面。能力只受想象力限制。
 - **[设计解构卡 Design Decoder](https://github.com/pixelxzen/design-decoder)** · 浏览器扩展 —— 拆开任意网页的活体设计系统：面积加权配色、字阶、CSS 变量，一键导出 `DESIGN.md`。
+- **[微信读书公众号盯采](https://github.com/pixelxzen/Zisuzi-Weread-MP)** · Obsidian 插件 —— 让公众号更新自己走进知识库：扫码登录微信读书，新文章连图片、音视频一起落成 Markdown 笔记，数据只走你自己的账号。
 - **紫苏子ACG** · 动画短片 —— 一个人一支队伍：编剧、分镜、生成、配音、剪辑、发布，全流程一个人走完。
 
 ### 在拍
